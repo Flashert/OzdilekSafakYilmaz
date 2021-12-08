@@ -1,0 +1,460 @@
+2021-12-07 21:01:07 INFO  BasePage:31 - Uygulama logosu göründü
+2021-12-07 21:05:08 INFO  BasePage:25 - 5saniye bekledi !!!!
+2021-12-07 21:05:08 INFO  BasePage:31 - Uygulama logosu gorundu
+2021-12-07 21:05:08 INFO  BasePage:38 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 21:05:10 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:10 INFO  BasePage:44 - com.ozdilek.ozdilekteyim:id/nav_categoriesElementine tıklandır !!!
+2021-12-07 21:05:12 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:13 INFO  BasePage:50 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 21:05:15 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:15 INFO  BasePage:56 - pantolon secildi
+2021-12-07 21:05:17 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:21 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:26 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:28 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:31 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:31 INFO  BasePage:81 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-07 21:05:32 INFO  BasePage:25 - 1saniye bekledi !!!!
+2021-12-07 21:05:33 INFO  BasePage:87 - sifreshowDeğeri yazıldı !!!
+2021-12-07 21:05:34 INFO  BasePage:25 - 1saniye bekledi !!!!
+2021-12-07 21:05:36 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:38 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:40 INFO  BasePage:25 - 2saniye bekledi !!!!
+2021-12-07 21:05:43 INFO  BasePage:25 - 3saniye bekledi !!!!
+2021-12-07 21:18:31 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 21:19:33 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 21:19:33 INFO  BasePage:30 - urun var
+2021-12-07 21:19:33 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 21:19:35 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:35 INFO  BasePage:42 - com.ozdilek.ozdilekteyim:id/nav_categoriesElementine tıklandır !!!
+2021-12-07 21:19:37 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:38 INFO  BasePage:48 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 21:19:40 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:40 INFO  BasePage:54 - pantolon secildi
+2021-12-07 21:19:42 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:46 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:51 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:53 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:56 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:19:56 INFO  BasePage:79 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-07 21:19:57 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 21:19:58 INFO  BasePage:85 - sifreshowDeğeri yazıldı !!!
+2021-12-07 21:19:59 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 21:20:01 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:20:03 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:20:06 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:20:09 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 21:23:36 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 21:23:36 INFO  BasePage:30 - urun var
+2021-12-07 21:23:36 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 21:23:38 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:23:38 INFO  BasePage:42 - com.ozdilek.ozdilekteyim:id/nav_categoriesElementine tıklandır !!!
+2021-12-07 21:23:40 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:23:40 INFO  BasePage:48 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 21:23:42 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:23:42 INFO  BasePage:54 - pantolon secildi
+2021-12-07 21:23:44 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:08 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 21:25:08 INFO  BasePage:30 - urun var
+2021-12-07 21:25:08 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 21:25:10 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:10 INFO  BasePage:42 - com.ozdilek.ozdilekteyim:id/nav_categoriesElementine tıklandır !!!
+2021-12-07 21:25:12 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:12 INFO  BasePage:48 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 21:25:14 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:15 INFO  BasePage:54 - pantolon secildi
+2021-12-07 21:25:17 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:21 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:25 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 21:25:27 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:25:27 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:25:27 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:25:27 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 22:28:24 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:28:24 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:28:24 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStoreElementine tıklandır !!!
+2021-12-07 22:28:25 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:28:26 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:28:28 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:28 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categoriesElementine tıklandır !!!
+2021-12-07 22:28:30 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:30 INFO  BasePage:54 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 22:28:32 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:33 INFO  BasePage:60 - pantolon secildi
+2021-12-07 22:28:35 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:39 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:43 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:45 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:48 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:48 INFO  BasePage:85 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-07 22:28:49 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:28:49 INFO  BasePage:91 - sifreshowDeğeri yazıldı !!!
+2021-12-07 22:28:50 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:28:52 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:54 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:28:56 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:29:00 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 22:38:34 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:38:34 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:38:35 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:38:35 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:38:36 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:38:37 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:38:39 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:38:39 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:38:40 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:40:36 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:40:36 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:40:37 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:40:37 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:40:38 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:40:39 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:40:41 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:40:41 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:40:43 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:42:36 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:42:37 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:42:38 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:42:38 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:42:39 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:42:40 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:42:42 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:42:42 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:42:45 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 22:44:40 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:44:40 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:44:41 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:44:41 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:44:42 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:44:43 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:44:45 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:44:45 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:44:48 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 22:51:33 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:51:33 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:51:34 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:51:34 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:51:35 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:51:36 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:51:38 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:51:38 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:51:41 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 22:53:18 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 22:53:18 INFO  BasePage:30 - Logo bulundu
+2021-12-07 22:53:19 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:53:19 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 22:53:20 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 22:53:21 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 22:53:23 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 22:53:23 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 22:53:26 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 23:02:50 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 23:02:50 INFO  BasePage:30 - Logo bulundu
+2021-12-07 23:02:51 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:02:51 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 23:02:52 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:02:53 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 23:02:55 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:02:56 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 23:02:59 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 23:03:01 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:01 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 23:03:03 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:03 INFO  BasePage:66 - pantolon secildi
+2021-12-07 23:03:05 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:10 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:14 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:16 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:19 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:19 INFO  BasePage:91 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-07 23:03:20 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:03:20 INFO  BasePage:97 - sifreshowDeğeri yazıldı !!!
+2021-12-07 23:03:21 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:03:23 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:25 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:28 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:03:31 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 23:06:46 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 23:06:46 INFO  BasePage:30 - Logo bulundu
+2021-12-07 23:06:47 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:06:47 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 23:06:48 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:06:49 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 23:06:51 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:06:51 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 23:06:54 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 23:08:31 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-07 23:08:31 INFO  BasePage:30 - Logo bulundu
+2021-12-07 23:08:32 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:08:32 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-07 23:08:33 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:08:34 INFO  BasePage:42 - Market butonu bulundu
+2021-12-07 23:08:36 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:36 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-07 23:08:39 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-07 23:08:41 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:41 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-07 23:08:43 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:43 INFO  BasePage:66 - pantolon secildi
+2021-12-07 23:08:45 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:50 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:54 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:56 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:58 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:08:58 INFO  BasePage:91 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-07 23:08:59 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:09:00 INFO  BasePage:97 - sifreshowDeğeri yazıldı !!!
+2021-12-07 23:09:01 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-07 23:09:03 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:09:05 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:09:07 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-07 23:09:10 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 16:58:28 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-08 16:58:28 INFO  BasePage:30 - Logo bulundu
+2021-12-08 16:58:29 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 16:58:29 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-08 16:58:30 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:00:04 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-08 17:00:04 INFO  BasePage:30 - Logo bulundu
+2021-12-08 17:00:05 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:00:05 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-08 17:00:06 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:00:07 INFO  BasePage:42 - Market butonu bulundu
+2021-12-08 17:00:09 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:09 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-08 17:00:12 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 17:00:12 INFO  BasePage:54 - Search input bulundu
+2021-12-08 17:00:14 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:14 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-08 17:00:16 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:17 INFO  BasePage:66 - pantolon secildi
+2021-12-08 17:00:19 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:23 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:27 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:29 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:32 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:32 INFO  BasePage:91 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-08 17:00:33 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:00:34 INFO  BasePage:97 - sifreshowDeğeri yazıldı !!!
+2021-12-08 17:00:35 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:00:37 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:39 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:41 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:00:45 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 17:09:10 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-08 17:09:10 INFO  BasePage:30 - Logo bulundu
+2021-12-08 17:09:11 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:11 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-08 17:09:12 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:13 INFO  BasePage:42 - Market butonu bulundu
+2021-12-08 17:09:15 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:15 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-08 17:09:18 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 17:09:18 INFO  BasePage:54 - Search input bulundu
+2021-12-08 17:09:20 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:20 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-08 17:09:22 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:22 INFO  BasePage:66 - pantolon secildi
+2021-12-08 17:09:24 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:29 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:33 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:34 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:35 INFO  BasePage:86 - Pantolon Logo bulundu
+2021-12-08 17:09:36 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:38 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:39 INFO  BasePage:97 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-08 17:09:40 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:40 INFO  BasePage:103 - sifreshowDeğeri yazıldı !!!
+2021-12-08 17:09:41 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:09:43 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:46 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:48 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:09:51 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 17:16:08 INFO  BasePage:24 - 5saniye bekledi !!!!
+2021-12-08 17:16:08 INFO  BasePage:30 - Logo bulundu
+2021-12-08 17:16:09 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:09 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStorealisverise basla butonuna basilir !!!
+2021-12-08 17:16:10 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:11 INFO  BasePage:42 - Market butonu bulundu
+2021-12-08 17:16:13 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:13 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categorieskatagoriler butonuna tiklanir !!!
+2021-12-08 17:16:16 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 17:16:16 INFO  BasePage:54 - Search input bulundu
+2021-12-08 17:16:19 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:19 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2]Elementine tiklandi !!!
+2021-12-08 17:16:21 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:21 INFO  BasePage:66 - pantolon secildi
+2021-12-08 17:16:23 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:27 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:32 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:33 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:34 INFO  BasePage:86 - Pantolon Logo bulundu
+2021-12-08 17:16:35 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:37 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:37 INFO  BasePage:97 - GirisYap butonu bulundu
+2021-12-08 17:16:38 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:39 INFO  BasePage:103 - haksim@hotmail.comDeğeri yazıldı !!!
+2021-12-08 17:16:40 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:40 INFO  BasePage:109 - sifreshowDeğeri yazıldı !!!
+2021-12-08 17:16:41 INFO  BasePage:24 - 1saniye bekledi !!!!
+2021-12-08 17:16:44 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:46 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:48 INFO  BasePage:24 - 2saniye bekledi !!!!
+2021-12-08 17:16:51 INFO  BasePage:24 - 3saniye bekledi !!!!
+2021-12-08 20:29:20 INFO  BasePage:24 - 5 saniye bekledi !!!!
+2021-12-08 20:31:16 INFO  BasePage:24 - 5 saniye bekledi !!!!
+2021-12-08 20:31:17 INFO  BasePage:30 - Uygulama calisti, Logo bulundu
+2021-12-08 20:31:18 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:18 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStore alisverise basla butonuna basilir !!!
+2021-12-08 20:31:19 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:20 INFO  BasePage:42 - Market butonu bulundu
+2021-12-08 20:31:22 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:23 INFO  BasePage:48 - com.ozdilek.ozdilekteyim:id/nav_categories katagoriler butonuna tiklanir !!!
+2021-12-08 20:31:26 INFO  BasePage:24 - 3 saniye bekledi !!!!
+2021-12-08 20:31:26 INFO  BasePage:54 - Search input bulundu
+2021-12-08 20:31:28 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:28 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2] kadin butonuna tiklanir
+2021-12-08 20:31:30 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:30 INFO  BasePage:66 -  pantolon secildi
+2021-12-08 20:31:32 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:34 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:31:36 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:39 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:31:41 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:41 INFO  BasePage:82 - Rastgele pantolon urunu secilir
+2021-12-08 20:31:42 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:44 INFO  BasePage:88 - Pantolon Logo bulundu
+2021-12-08 20:31:45 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:45 INFO  BasePage:94 - Favoriler butonu tiklanir
+2021-12-08 20:31:47 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:47 INFO  BasePage:100 - GirisYap butonu bulundu
+2021-12-08 20:31:48 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:49 INFO  BasePage:106 - haksim@hotmail.comemail girilir
+2021-12-08 20:31:50 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:50 INFO  BasePage:112 - sifreshowsifre girilir
+2021-12-08 20:31:52 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:31:52 INFO  BasePage:118 - Geri gidilir
+2021-12-08 20:31:54 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:54 INFO  BasePage:118 - Geri gidilir
+2021-12-08 20:31:56 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:56 INFO  BasePage:82 - Rastgele pantolon urunu secilir
+2021-12-08 20:31:58 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:31:58 INFO  BasePage:125 - Sepete ekle butonuna basilir
+2021-12-08 20:32:01 INFO  BasePage:24 - 3 saniye bekledi !!!!
+2021-12-08 20:42:39 INFO  BasePage:24 - 5 saniye bekledi !!!!
+2021-12-08 20:42:39 INFO  BasePage:30 - Uygulama calisti, Logo bulundu
+2021-12-08 20:42:40 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:42:40 INFO  BasePage:36 - com.ozdilek.ozdilekteyim:id/tv_startShoppingStore alisverise basla butonuna basildi
+2021-12-08 20:42:41 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:42:42 INFO  BasePage:42 - Alisveris sayfasi acildi,Market butonu goruntulendi
+2021-12-08 20:42:44 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:42:44 INFO  BasePage:48 -  katagoriler butonuna tiklandi
+2021-12-08 20:42:47 INFO  BasePage:24 - 3 saniye bekledi !!!!
+2021-12-08 20:42:47 INFO  BasePage:54 - Katagoriler sayfasi acildi,Search input bulundu
+2021-12-08 20:42:49 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:42:50 INFO  BasePage:60 - /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[2] kadin butonuna tiklandi
+2021-12-08 20:42:52 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:42:52 INFO  BasePage:66 -  pantolon butonuna tiklandi
+2021-12-08 20:42:54 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:42:56 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:42:58 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:01 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:43:03 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:03 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 20:43:04 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:43:05 INFO  BasePage:88 - Pantolon detay sayfasi acildi,Pantolon Logo bulundu
+2021-12-08 20:43:06 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:43:06 INFO  BasePage:94 - Favoriler butonu tiklandi
+2021-12-08 20:43:08 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:08 INFO  BasePage:100 - GirisYap butonu bulundu
+2021-12-08 20:43:09 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:43:10 INFO  BasePage:106 - Email girildi
+2021-12-08 20:43:11 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:43:11 INFO  BasePage:112 - Sifre girildi
+2021-12-08 20:43:12 INFO  BasePage:24 - 1 saniye bekledi !!!!
+2021-12-08 20:43:12 INFO  BasePage:118 - Geri gidildi
+2021-12-08 20:43:14 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:14 INFO  BasePage:118 - Geri gidildi
+2021-12-08 20:43:16 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:16 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 20:43:18 INFO  BasePage:24 - 2 saniye bekledi !!!!
+2021-12-08 20:43:18 INFO  BasePage:125 - Sepete ekle butonuna basildi
+2021-12-08 20:43:21 INFO  BasePage:24 - 3 saniye bekledi !!!!
+2021-12-08 20:48:29 INFO  BasePage:24 - 5 saniye bekledi !!!
+2021-12-08 20:48:29 INFO  BasePage:30 - Uygulama calisti, Logo bulundu
+2021-12-08 20:48:30 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:30 INFO  BasePage:36 - Alisverise basla butonuna basildi
+2021-12-08 20:48:32 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:32 INFO  BasePage:42 - Alisveris sayfasi acildi,Market butonu goruntulendi
+2021-12-08 20:48:33 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:33 INFO  BasePage:48 - Katagoriler butonuna tiklandi
+2021-12-08 20:48:35 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:36 INFO  BasePage:54 - Katagoriler sayfasi acildi,Search input bulundu
+2021-12-08 20:48:37 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:37 INFO  BasePage:60 - Kadin butonuna tiklandi
+2021-12-08 20:48:39 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:39 INFO  BasePage:66 - Pantolon butonuna tiklandi
+2021-12-08 20:48:41 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:43 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:48:45 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:48 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 20:48:50 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:50 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 20:48:52 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:52 INFO  BasePage:88 - Pantolon detay sayfasi acildi,Pantolon Logo bulundu
+2021-12-08 20:48:53 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:53 INFO  BasePage:94 - Favoriler butonu tiklandi
+2021-12-08 20:48:55 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:48:55 INFO  BasePage:100 - GirisYap butonu bulundu
+2021-12-08 20:48:56 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:56 INFO  BasePage:106 - Email girildi
+2021-12-08 20:48:57 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:58 INFO  BasePage:112 - Sifre girildi
+2021-12-08 20:48:59 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 20:48:59 INFO  BasePage:118 - Geri gidildi
+2021-12-08 20:49:01 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:49:01 INFO  BasePage:118 - Geri gidildi
+2021-12-08 20:49:03 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:49:03 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 20:49:05 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 20:49:05 INFO  BasePage:125 - Sepete ekle butonuna basildi
+2021-12-08 20:49:08 INFO  BasePage:24 - 3 saniye bekledi !!!
+2021-12-08 21:08:19 INFO  BasePage:24 - 5 saniye bekledi !!!
+2021-12-08 21:08:19 INFO  BasePage:30 - Uygulama calisti, Logo bulundu
+2021-12-08 21:08:20 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:20 INFO  BasePage:36 - Alisverise basla butonuna basildi
+2021-12-08 21:08:22 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:22 INFO  BasePage:42 - Alisveris sayfasi acildi,Market butonu bulundu
+2021-12-08 21:08:23 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:23 INFO  BasePage:48 - Katagoriler butonuna tiklandi
+2021-12-08 21:08:25 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:25 INFO  BasePage:54 - Katagoriler sayfasi acildi,Search input bulundu
+2021-12-08 21:08:26 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:26 INFO  BasePage:60 - Kadin butonuna tiklandi
+2021-12-08 21:08:28 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:28 INFO  BasePage:66 - Pantolon butonuna tiklandi
+2021-12-08 21:08:30 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:33 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 21:08:35 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:37 INFO  BasePage:73 - Asagi scrool edildi
+2021-12-08 21:08:39 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:39 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 21:08:41 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:42 INFO  BasePage:88 - Pantolon detay sayfasi acildi,Pantolon Logo bulundu
+2021-12-08 21:08:43 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:43 INFO  BasePage:94 - Favoriler butonu tiklandi
+2021-12-08 21:08:45 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:45 INFO  BasePage:100 - GirisYap butonu bulundu
+2021-12-08 21:08:46 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:47 INFO  BasePage:106 - Email girildi
+2021-12-08 21:08:48 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:48 INFO  BasePage:112 - Sifre girildi
+2021-12-08 21:08:49 INFO  BasePage:24 - 1 saniye bekledi !!!
+2021-12-08 21:08:49 INFO  BasePage:118 - Geri gidildi
+2021-12-08 21:08:51 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:51 INFO  BasePage:118 - Geri gidildi
+2021-12-08 21:08:53 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:54 INFO  BasePage:82 - Rastgele pantolon urunu secildi
+2021-12-08 21:08:56 INFO  BasePage:24 - 2 saniye bekledi !!!
+2021-12-08 21:08:56 INFO  BasePage:124 - Sepete ekle butonuna basildi
+2021-12-08 21:08:59 INFO  BasePage:24 - 3 saniye bekledi !!!
