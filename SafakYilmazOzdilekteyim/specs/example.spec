@@ -48,4 +48,4 @@ Ozdilek
 * rastgele urun sec
 * "2" saniye beklendi
 * "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" sepete ekle butonu basilir
-* "3" saniye beklendi
+//* "3" saniye beklendi
